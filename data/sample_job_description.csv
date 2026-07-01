@@ -1,0 +1,2 @@
+job_id,job_title,job_description,required_skills,required_experience
+J001,Senior AI Engineer,"Senior AI Engineer with Python, NLP, machine learning, vector search, data pipelines, FastAPI, Streamlit, and production deployment experience. Requires 5+ years of relevant experience.","Python,NLP,Machine Learning,Vector Search,FastAPI,Streamlit",5
